@@ -2,6 +2,11 @@
 
 A Django site for viewing the IGNOU academic dashboard and the source records used to build it.
 
+# Live URL
+```bash
+https://sumant-shekhar.github.io/portfolio/
+```
+
 ## Run locally
 
 ```bash
